@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../copperfit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -65,6 +65,7 @@
       <workItem from="1626187341202" duration="1079000" />
       <workItem from="1626247976768" duration="23000" />
       <workItem from="1627319199544" duration="5270000" />
+      <workItem from="1627410442804" duration="370000" />
     </task>
     <servers />
   </component>
